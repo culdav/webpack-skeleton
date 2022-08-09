@@ -1,0 +1,16 @@
+.vscode
+node_modules/
+
+# IDEs and editors
+/.idea/
+/.settings/
+/.project
+*.iml
+
+# misc
+dist-config-loader
+dist/
+npm-debug.log*
+debug.log
+
+.npmrc
